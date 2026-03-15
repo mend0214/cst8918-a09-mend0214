@@ -8,3 +8,10 @@ override.tf.json
 *_override.tf
 *_override.tf.json
 .terraform.lock.hcl
+
+# Node
+node_modules/
+**/node_modules/
+
+# Logs
+npm-debug.log*
